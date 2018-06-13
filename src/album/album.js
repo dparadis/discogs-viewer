@@ -7,15 +7,19 @@ export default class Album extends Component {
   }
 
   render() {
-    return (
-      <div>
-        <span className="artist"><strong>
-         { this.props.album.artists && 
-           this.props.album.artists.map(artist => artist.name).join(', ') 
-         } / 
-        </strong></span>
-        <span className="title"> {this.props.album.title}</span>
-      </div>
-    );
+    if (this.props.album.artists) {
+      return (
+        <div>
+          <span className="artist"><strong>
+           { this.props.album.artists && 
+             this.props.album.artists.map(artist => artist.name).join(', ') 
+           } / 
+          </strong></span>
+          <span className="title"> {this.props.album.title}</span>
+        </div>
+      );
+    } else {
+      return '';
+    }
   }
 }
