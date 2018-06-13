@@ -1,0 +1,1949 @@
+{
+  "pagination": {
+    "per_page": 50,
+    "items": 146,
+    "page": 1,
+    "urls": {
+      "last": "https://api.discogs.com/users/divodp/collection/folders/0/releases?per_page=50&page=3",
+      "next": "https://api.discogs.com/users/divodp/collection/folders/0/releases?per_page=50&page=2"
+    },
+    "pages": 3
+  },
+  "releases": [{
+    "instance_id": 263122184,
+    "date_added": "2017-11-25T07:28:00-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "_Xurbia_Xendless Limited",
+        "entity_type": "1",
+        "catno": "_X_X001",
+        "resource_url": "https://api.discogs.com/labels/101131",
+        "id": 101131,
+        "entity_type_name": "Label"
+      }, {
+        "name": "_Xurbia_Xendless Limited",
+        "entity_type": "1",
+        "catno": "CD_X_X001",
+        "resource_url": "https://api.discogs.com/labels/101131",
+        "id": 101131,
+        "entity_type_name": "Label"
+      }, {
+        "name": "_Xurbia_Xendless Limited",
+        "entity_type": "1",
+        "catno": "CDS_X_X001",
+        "resource_url": "https://api.discogs.com/labels/101131",
+        "id": 101131,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["12\"", "45 RPM", "Album"],
+        "name": "Vinyl",
+        "qty": "2"
+      }, {
+        "descriptions": ["Album"],
+        "name": "CD",
+        "qty": "1"
+      }, {
+        "descriptions": ["Enhanced"],
+        "name": "CD",
+        "qty": "1"
+      }, {
+        "descriptions": ["Limited Edition"],
+        "name": "Box Set",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Radiohead",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/3840",
+        "id": 3840
+      }],
+      "thumb": "",
+      "title": "In Rainbows",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1158751",
+      "year": 2007,
+      "id": 1158751
+    },
+    "id": 1158751,
+    "rating": 0
+  }, {
+    "instance_id": 263142971,
+    "date_added": "2017-11-25T09:04:51-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "A&M Records",
+        "entity_type": "1",
+        "catno": "SP-3735",
+        "resource_url": "https://api.discogs.com/labels/904",
+        "id": 904,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "BRY Front Cover",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Police",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/7987",
+        "id": 7987
+      }],
+      "thumb": "",
+      "title": "Synchronicity",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/442490",
+      "year": 1983,
+      "id": 442490
+    },
+    "id": 442490,
+    "rating": 0
+  }, {
+    "instance_id": 263153665,
+    "date_added": "2017-11-25T09:52:41-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "A&M Records",
+        "entity_type": "1",
+        "catno": "SP 3601",
+        "resource_url": "https://api.discogs.com/labels/904",
+        "id": 904,
+        "entity_type_name": "Label"
+      }, {
+        "name": "A&M Records",
+        "entity_type": "1",
+        "catno": "SP-3601",
+        "resource_url": "https://api.discogs.com/labels/904",
+        "id": 904,
+        "entity_type_name": "Label"
+      }, {
+        "name": "A&M Records",
+        "entity_type": "1",
+        "catno": "SP3601",
+        "resource_url": "https://api.discogs.com/labels/904",
+        "id": 904,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Compilation"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Carpenters",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/170357",
+        "id": 170357
+      }],
+      "thumb": "",
+      "title": "The Singles 1969-1973",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/611451",
+      "year": 1973,
+      "id": 611451
+    },
+    "id": 611451,
+    "rating": 0
+  }, {
+    "instance_id": 263143292,
+    "date_added": "2017-11-25T09:06:13-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Apple Records",
+        "entity_type": "1",
+        "catno": "SKBO 3403",
+        "resource_url": "https://api.discogs.com/labels/25693",
+        "id": 25693,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Compilation"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Beatles",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/82730",
+        "id": 82730
+      }],
+      "thumb": "",
+      "title": "1962-1966",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3436226",
+      "year": 1973,
+      "id": 3436226
+    },
+    "id": 3436226,
+    "rating": 0
+  }, {
+    "instance_id": 263143218,
+    "date_added": "2017-11-25T09:05:55-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Apple Records",
+        "entity_type": "1",
+        "catno": "SKBO 3404",
+        "resource_url": "https://api.discogs.com/labels/25693",
+        "id": 25693,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Compilation"],
+        "text": "Gatefold Sleeve",
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Beatles",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/82730",
+        "id": 82730
+      }],
+      "thumb": "",
+      "title": "1967-1970",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5421024",
+      "year": 1973,
+      "id": 5421024
+    },
+    "id": 5421024,
+    "rating": 0
+  }, {
+    "instance_id": 263145930,
+    "date_added": "2017-11-25T09:18:19-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Apple Records",
+        "entity_type": "1",
+        "catno": "SW-3414",
+        "resource_url": "https://api.discogs.com/labels/25693",
+        "id": 25693,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "John Lennon",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/46481",
+        "id": 46481
+      }],
+      "thumb": "",
+      "title": "Mind Games",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/788025",
+      "year": 1973,
+      "id": 788025
+    },
+    "id": 788025,
+    "rating": 0
+  }, {
+    "instance_id": 263141197,
+    "date_added": "2017-11-25T08:57:01-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Apple Records",
+        "entity_type": "1",
+        "catno": "SW 3386",
+        "resource_url": "https://api.discogs.com/labels/25693",
+        "id": 25693,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Apple Records",
+        "entity_type": "1",
+        "catno": "SW-3386",
+        "resource_url": "https://api.discogs.com/labels/25693",
+        "id": 25693,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "Jacksonville",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Wings (2)",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/145074",
+        "id": 145074
+      }],
+      "thumb": "",
+      "title": "Wild Life",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1724753",
+      "year": 1971,
+      "id": 1724753
+    },
+    "id": 1724753,
+    "rating": 0
+  }, {
+    "instance_id": 263139271,
+    "date_added": "2017-11-25T08:48:51-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Arista",
+        "entity_type": "1",
+        "catno": "88691960281",
+        "resource_url": "https://api.discogs.com/labels/362",
+        "id": 362,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Legacy",
+        "entity_type": "1",
+        "catno": "88691960281",
+        "resource_url": "https://api.discogs.com/labels/15491",
+        "id": 15491,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue", "Remastered"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Patti Smith",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/193816",
+        "id": 193816
+      }],
+      "thumb": "",
+      "title": "Horses",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3571109",
+      "year": 2012,
+      "id": 3571109
+    },
+    "id": 3571109,
+    "rating": 0
+  }, {
+    "instance_id": 293354093,
+    "date_added": "2018-04-15T15:41:16-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Asthmatic Kitty Records",
+        "entity_type": "1",
+        "catno": "AKR077",
+        "resource_url": "https://api.discogs.com/labels/35784",
+        "id": 35784,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Sufjan Stevens",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/202598",
+        "id": 202598
+      }],
+      "thumb": "",
+      "title": "The Age Of Adz",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2529888",
+      "year": 2010,
+      "id": 2529888
+    },
+    "id": 2529888,
+    "rating": 0
+  }, {
+    "instance_id": 263128838,
+    "date_added": "2017-11-25T08:01:04-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Asthmatic Kitty Records",
+        "entity_type": "1",
+        "catno": "AKR099",
+        "resource_url": "https://api.discogs.com/labels/35784",
+        "id": 35784,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Sufjan Stevens",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/202598",
+        "id": 202598
+      }],
+      "thumb": "",
+      "title": "Carrie & Lowell",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6549215",
+      "year": 2015,
+      "id": 6549215
+    },
+    "id": 6549215,
+    "rating": 0
+  }, {
+    "instance_id": 293354405,
+    "date_added": "2018-04-15T15:42:54-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Astralwerks",
+        "entity_type": "1",
+        "catno": "2567341420",
+        "resource_url": "https://api.discogs.com/labels/188",
+        "id": 188,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Skint",
+        "entity_type": "1",
+        "catno": "2567341420",
+        "resource_url": "https://api.discogs.com/labels/25847",
+        "id": 25847,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Club Edition", "Limited Edition", "Numbered", "Reissue"],
+        "text": "Sky Blue w/ Coffee Splatter",
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Fatboy Slim",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/3101",
+        "id": 3101
+      }],
+      "thumb": "",
+      "title": "You've Come A Long Way, Baby",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11846705",
+      "year": 2018,
+      "id": 11846705
+    },
+    "id": 11846705,
+    "rating": 0
+  }, {
+    "instance_id": 263152675,
+    "date_added": "2017-11-25T09:48:28-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "ATCO Records",
+        "entity_type": "1",
+        "catno": "79 68330",
+        "resource_url": "https://api.discogs.com/labels/3820",
+        "id": 3820,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["12\"", "33 \u2153 RPM"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Pete Townshend",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/256053",
+        "id": 256053
+      }],
+      "thumb": "",
+      "title": "Face The Face",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1581479",
+      "year": 1985,
+      "id": 1581479
+    },
+    "id": 1581479,
+    "rating": 0
+  }, {
+    "instance_id": 263125642,
+    "date_added": "2017-11-25T07:44:47-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Atlantic",
+        "entity_type": "1",
+        "catno": "561934-1",
+        "resource_url": "https://api.discogs.com/labels/681",
+        "id": 681,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The War On Drugs",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/1337908",
+        "id": 1337908
+      }],
+      "thumb": "",
+      "title": "A Deeper Understanding",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10752947",
+      "year": 2017,
+      "id": 10752947
+    },
+    "id": 10752947,
+    "rating": 0
+  }, {
+    "instance_id": 263153842,
+    "date_added": "2017-11-25T09:53:29-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Atlantic",
+        "entity_type": "1",
+        "catno": "KSD 19129",
+        "resource_url": "https://api.discogs.com/labels/681",
+        "id": 681,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Led Zeppelin",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/34278",
+        "id": 34278
+      }],
+      "thumb": "",
+      "title": "Untitled",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5425323",
+      "year": 1979,
+      "id": 5425323
+    },
+    "id": 5425323,
+    "rating": 0
+  }, {
+    "instance_id": 263148165,
+    "date_added": "2017-11-25T09:28:35-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Atlantic",
+        "entity_type": "1",
+        "catno": "SD 8245",
+        "resource_url": "https://api.discogs.com/labels/681",
+        "id": 681,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Stereo"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "King Crimson",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/70828",
+        "id": 70828
+      }],
+      "thumb": "",
+      "title": "In The Court Of The Crimson King (An Observation By King Crimson)",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8126057",
+      "year": 0,
+      "id": 8126057
+    },
+    "id": 8126057,
+    "rating": 0
+  }, {
+    "instance_id": 263141931,
+    "date_added": "2017-11-25T09:00:13-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Atlantic",
+        "entity_type": "1",
+        "catno": "SD 8266",
+        "resource_url": "https://api.discogs.com/labels/681",
+        "id": 681,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "King Crimson",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/70828",
+        "id": 70828
+      }],
+      "thumb": "",
+      "title": "In The Wake Of Poseidon",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4257873",
+      "year": 1970,
+      "id": 4257873
+    },
+    "id": 4257873,
+    "rating": 0
+  }, {
+    "instance_id": 280960037,
+    "date_added": "2018-02-18T10:40:24-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Bad Boy Entertainment",
+        "entity_type": "1",
+        "catno": "R1-562969",
+        "resource_url": "https://api.discogs.com/labels/13090",
+        "id": 13090,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP"],
+        "text": "Red w/White + Black Splatter",
+        "name": "Vinyl",
+        "qty": "1"
+      }, {
+        "descriptions": ["LP"],
+        "text": "White w/Red + Black Splatter",
+        "name": "Vinyl",
+        "qty": "1"
+      }, {
+        "descriptions": ["Album", "Club Edition", "Reissue", "Remastered"],
+        "name": "All Media",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Notorious B.I.G.",
+        "anv": "The Notorious B.I.G.",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/65049",
+        "id": 65049
+      }],
+      "thumb": "",
+      "title": "Ready To Die",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10844795",
+      "year": 2017,
+      "id": 10844795
+    },
+    "id": 10844795,
+    "rating": 0
+  }, {
+    "instance_id": 294445148,
+    "date_added": "2018-04-21T13:36:37-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "BMG Music Canada",
+        "entity_type": "1",
+        "catno": "74321 10557 1",
+        "resource_url": "https://api.discogs.com/labels/23693",
+        "id": 23693,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Limited Edition"],
+        "text": "Orange Vinyl, 180g",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Les Colocs",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/1887233",
+        "id": 1887233
+      }],
+      "thumb": "",
+      "title": "Les Colocs",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10578523",
+      "year": 2018,
+      "id": 10578523
+    },
+    "id": 10578523,
+    "rating": 0
+  }, {
+    "instance_id": 263151995,
+    "date_added": "2017-11-25T09:45:31-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Capitol Records",
+        "entity_type": "1",
+        "catno": "SW-11603",
+        "resource_url": "https://api.discogs.com/labels/654",
+        "id": 654,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Kraftwerk",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/4654",
+        "id": 4654
+      }],
+      "thumb": "",
+      "title": "Trans-Europe Express",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3556786",
+      "year": 1977,
+      "id": 3556786
+    },
+    "id": 3556786,
+    "rating": 0
+  }, {
+    "instance_id": 263130308,
+    "date_added": "2017-11-25T08:07:53-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Capitol Records",
+        "entity_type": "1",
+        "catno": "509996 93300 18",
+        "resource_url": "https://api.discogs.com/labels/654",
+        "id": 654,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Beastie Boys Records",
+        "entity_type": "1",
+        "catno": "C1-93300",
+        "resource_url": "https://api.discogs.com/labels/86196",
+        "id": 86196,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Remastered", "Reissue"],
+        "text": "Double Gatefold, 20th Anniversary",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Beastie Boys",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/10783",
+        "id": 10783
+      }],
+      "thumb": "",
+      "title": "Paul's Boutique",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1651542",
+      "year": 2009,
+      "id": 1651542
+    },
+    "id": 1651542,
+    "rating": 0
+  }, {
+    "instance_id": 297344392,
+    "date_added": "2018-05-05T12:31:44-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Capitol Records",
+        "entity_type": "1",
+        "catno": "SW-6386",
+        "resource_url": "https://api.discogs.com/labels/654",
+        "id": 654,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Capitol Records",
+        "entity_type": "1",
+        "catno": "SW 6386",
+        "resource_url": "https://api.discogs.com/labels/654",
+        "id": 654,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Beatles",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/82730",
+        "id": 82730
+      }],
+      "thumb": "",
+      "title": "Let It Be",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/696873",
+      "year": 1974,
+      "id": 696873
+    },
+    "id": 696873,
+    "rating": 0
+  }, {
+    "instance_id": 263145134,
+    "date_added": "2017-11-25T09:14:48-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Capitol Records",
+        "entity_type": "1",
+        "catno": "SMAS-832",
+        "resource_url": "https://api.discogs.com/labels/654",
+        "id": 654,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Harvest",
+        "entity_type": "1",
+        "catno": "SMAS-832",
+        "resource_url": "https://api.discogs.com/labels/2564",
+        "id": 2564,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Pink Floyd",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/45467",
+        "id": 45467
+      }],
+      "thumb": "",
+      "title": "Meddle",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2273704",
+      "year": 1983,
+      "id": 2273704
+    },
+    "id": 2273704,
+    "rating": 0
+  }, {
+    "instance_id": 291815830,
+    "date_added": "2018-04-08T06:19:15-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Carpark Records",
+        "entity_type": "1",
+        "catno": "CAK 70",
+        "resource_url": "https://api.discogs.com/labels/842",
+        "id": 842,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Cloud Nothings",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/1742328",
+        "id": 1742328
+      }],
+      "thumb": "",
+      "title": "Attack On Memory",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3370640",
+      "year": 2012,
+      "id": 3370640
+    },
+    "id": 3370640,
+    "rating": 0
+  }, {
+    "instance_id": 263124896,
+    "date_added": "2017-11-25T07:41:03-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "CBS",
+        "entity_type": "1",
+        "catno": "CBS 86304",
+        "resource_url": "https://api.discogs.com/labels/3072",
+        "id": 3072,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Bruce Springsteen",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/219986",
+        "id": 219986
+      }],
+      "thumb": "",
+      "title": "Born In The U.S.A.",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1551256",
+      "year": 1984,
+      "id": 1551256
+    },
+    "id": 1551256,
+    "rating": 0
+  }, {
+    "instance_id": 263142298,
+    "date_added": "2017-11-25T09:01:57-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "CBS Records Canada Ltd.",
+        "entity_type": "1",
+        "catno": "FS 90289",
+        "resource_url": "https://api.discogs.com/labels/138683",
+        "id": 138683,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Aut'Chose",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/677697",
+        "id": 677697
+      }],
+      "thumb": "",
+      "title": "Prends Une Chance Avec Mo\u00e9",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1106751",
+      "year": 1975,
+      "id": 1106751
+    },
+    "id": 1106751,
+    "rating": 0
+  }, {
+    "instance_id": 263143943,
+    "date_added": "2017-11-25T09:09:19-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Chess",
+        "entity_type": "1",
+        "catno": "2CH 60023",
+        "resource_url": "https://api.discogs.com/labels/33931",
+        "id": 33931,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Chess",
+        "entity_type": "1",
+        "catno": "2 CH 60023",
+        "resource_url": "https://api.discogs.com/labels/33931",
+        "id": 33931,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Compilation", "Stereo"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Chuck Berry",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/180119",
+        "id": 180119
+      }],
+      "thumb": "",
+      "title": "Chuck Berry's Golden Decade Vol.2",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3227077",
+      "year": 1972,
+      "id": 3227077
+    },
+    "id": 3227077,
+    "rating": 0
+  }, {
+    "instance_id": 263147889,
+    "date_added": "2017-11-25T09:27:20-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Chrysalis",
+        "entity_type": "1",
+        "catno": "CHE 501290",
+        "resource_url": "https://api.discogs.com/labels/3198",
+        "id": 3198,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Club Edition"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Blondie",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/16655",
+        "id": 16655
+      }],
+      "thumb": "",
+      "title": "Autoamerican",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4010961",
+      "year": 1980,
+      "id": 4010961
+    },
+    "id": 4010961,
+    "rating": 0
+  }, {
+    "instance_id": 263124502,
+    "date_added": "2017-11-25T07:38:59-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "CS 8192",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Stereo"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Dave Brubeck Quartet",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/251689",
+        "id": 251689
+      }],
+      "thumb": "",
+      "title": "Time Out",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2676016",
+      "year": 1959,
+      "id": 2676016
+    },
+    "id": 2676016,
+    "rating": 0
+  }, {
+    "instance_id": 263143782,
+    "date_added": "2017-11-25T09:08:29-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "JC 34474",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Pink Floyd",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/45467",
+        "id": 45467
+      }],
+      "thumb": "",
+      "title": "Animals",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3541589",
+      "year": 1977,
+      "id": 3541589
+    },
+    "id": 3541589,
+    "rating": 0
+  }, {
+    "instance_id": 263154579,
+    "date_added": "2017-11-25T09:56:51-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "PG 31120",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Reissue", "Compilation"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Bob Dylan",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/59792",
+        "id": 59792
+      }],
+      "thumb": "",
+      "title": "Bob Dylan's Greatest Hits Volume II",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1144354",
+      "year": 0,
+      "id": 1144354
+    },
+    "id": 1144354,
+    "rating": 0
+  }, {
+    "instance_id": 267557127,
+    "date_added": "2017-12-19T15:28:00-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "PC 33795",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Classic Records",
+        "entity_type": "1",
+        "catno": "PC 33795",
+        "resource_url": "https://api.discogs.com/labels/22206",
+        "id": 22206,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue", "Remastered"],
+        "text": "180 gm",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Bruce Springsteen",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/219986",
+        "id": 219986
+      }],
+      "thumb": "",
+      "title": "Born To Run",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7533681",
+      "year": 1999,
+      "id": 7533681
+    },
+    "id": 7533681,
+    "rating": 0
+  }, {
+    "instance_id": 279200769,
+    "date_added": "2018-02-10T17:25:03-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "88697680571",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Legacy",
+        "entity_type": "1",
+        "catno": "88697680571",
+        "resource_url": "https://api.discogs.com/labels/15491",
+        "id": 15491,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "text": "180 gram",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Miles Davis",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/23755",
+        "id": 23755
+      }],
+      "thumb": "",
+      "title": "Kind Of Blue",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2825456",
+      "year": 2010,
+      "id": 2825456
+    },
+    "id": 2825456,
+    "rating": 0
+  }, {
+    "instance_id": 286690320,
+    "date_added": "2018-03-15T19:27:42-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "88985448441",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Legacy",
+        "entity_type": "1",
+        "catno": "88985448441",
+        "resource_url": "https://api.discogs.com/labels/15491",
+        "id": 15491,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Sony Music Commercial Music Group",
+        "entity_type": "1",
+        "catno": "88985448441",
+        "resource_url": "https://api.discogs.com/labels/276086",
+        "id": 276086,
+        "entity_type_name": "Label"
+      }, {
+        "name": "INA",
+        "entity_type": "1",
+        "catno": "88985448441",
+        "resource_url": "https://api.discogs.com/labels/102090",
+        "id": 102090,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Club Edition", "Reissue", "Remastered"],
+        "text": "180g",
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "&",
+        "name": "Miles Davis",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/23755",
+        "id": 23755
+      }, {
+        "join": "",
+        "name": "John Coltrane",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/97545",
+        "id": 97545
+      }],
+      "thumb": "",
+      "title": "The Final Tour: Paris, March 21, 1960",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11706028",
+      "year": 2018,
+      "id": 11706028
+    },
+    "id": 11706028,
+    "rating": 0
+  }, {
+    "instance_id": 303466240,
+    "date_added": "2018-06-07T15:51:36-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "cst003",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Repress"],
+        "text": "Train",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Godspeed You Black Emperor!",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/280442",
+        "id": 280442
+      }],
+      "thumb": "",
+      "title": "F\u266f A\u266f \u221e",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1093854",
+      "year": 0,
+      "id": 1093854
+    },
+    "id": 1093854,
+    "rating": 0
+  }, {
+    "instance_id": 263124409,
+    "date_added": "2017-11-25T07:38:33-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "cst009",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "A Silver Mt. Zion",
+        "anv": "A.S.M.Z.",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/43637",
+        "id": 43637
+      }],
+      "thumb": "",
+      "title": "He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms\u2026",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/84926",
+      "year": 2000,
+      "id": 84926
+    },
+    "id": 84926,
+    "rating": 0
+  }, {
+    "instance_id": 263123752,
+    "date_added": "2017-11-25T07:35:33-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "cst012",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Godspeed You Black Emperor!",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/280442",
+        "id": 280442
+      }],
+      "thumb": "",
+      "title": "Lift Your Skinny Fists Like Antennas To Heaven",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/74260",
+      "year": 2000,
+      "id": 74260
+    },
+    "id": 74260,
+    "rating": 0
+  }, {
+    "instance_id": 263122829,
+    "date_added": "2017-11-25T07:31:19-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "CST063-1",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["10\"", "Album"],
+        "text": "180g",
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "A Silver Mt. Zion",
+        "anv": "Thee Silver Mt. Zion Memorial Orchestra",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/43637",
+        "id": 43637
+      }],
+      "thumb": "",
+      "title": "Kollaps Tradixionales",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5395951",
+      "year": 2010,
+      "id": 5395951
+    },
+    "id": 5395951,
+    "rating": 0
+  }, {
+    "instance_id": 263122398,
+    "date_added": "2017-11-25T07:29:08-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "CST111-1",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Godspeed You Black Emperor!",
+        "anv": "Godspeed You! Black Emperor",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/280442",
+        "id": 280442
+      }],
+      "thumb": "",
+      "title": "Asunder, Sweet And Other Distress",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6802242",
+      "year": 2015,
+      "id": 6802242
+    },
+    "id": 6802242,
+    "rating": 0
+  }, {
+    "instance_id": 263127214,
+    "date_added": "2017-11-25T07:52:51-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Constellation",
+        "entity_type": "1",
+        "catno": "CST126",
+        "resource_url": "https://api.discogs.com/labels/5579",
+        "id": 5579,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "180 g",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Godspeed You Black Emperor!",
+        "anv": "Godspeed You! Black Emperor",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/280442",
+        "id": 280442
+      }],
+      "thumb": "",
+      "title": "Luciferian Towers",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10872716",
+      "year": 2017,
+      "id": 10872716
+    },
+    "id": 10872716,
+    "rating": 0
+  }, {
+    "instance_id": 294444949,
+    "date_added": "2018-04-21T13:35:52-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Dare To Care Records",
+        "entity_type": "1",
+        "catno": "DTC066-LP",
+        "resource_url": "https://api.discogs.com/labels/41833",
+        "id": 41833,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Limited Edition", "Reissue", "Remastered"],
+        "text": "White",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Les Marmottes Aplaties",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/1784396",
+        "id": 1784396
+      }],
+      "thumb": "",
+      "title": "\u00c9pisode Sanglant",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11897264",
+      "year": 2018,
+      "id": 11897264
+    },
+    "id": 11897264,
+    "rating": 0
+  }, {
+    "instance_id": 294444852,
+    "date_added": "2018-04-21T13:35:34-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Dare To Care Records",
+        "entity_type": "1",
+        "catno": "DTC067-LP",
+        "resource_url": "https://api.discogs.com/labels/41833",
+        "id": 41833,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Reissue", "Remastered"],
+        "text": "180g, Orange translucent",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Les Marmottes Aplaties",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/1784396",
+        "id": 1784396
+      }],
+      "thumb": "",
+      "title": "D\u00e9cadents",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11897450",
+      "year": 2018,
+      "id": 11897450
+    },
+    "id": 11897450,
+    "rating": 0
+  }, {
+    "instance_id": 263138228,
+    "date_added": "2017-11-25T08:44:27-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Death Row Records (2)",
+        "entity_type": "1",
+        "catno": "DRR 63000-1",
+        "resource_url": "https://api.discogs.com/labels/19737",
+        "id": 19737,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue", "Remastered"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Dr. Dre",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/50513",
+        "id": 50513
+      }],
+      "thumb": "",
+      "title": "The Chronic",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/605246",
+      "year": 2001,
+      "id": 605246
+    },
+    "id": 605246,
+    "rating": 0
+  }, {
+    "instance_id": 298319172,
+    "date_added": "2018-05-10T15:10:49-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Death Row Records (2)",
+        "entity_type": "1",
+        "catno": "DRR-LP-63094",
+        "resource_url": "https://api.discogs.com/labels/19737",
+        "id": 19737,
+        "entity_type_name": "Label"
+      }, {
+        "name": "eOne",
+        "entity_type": "1",
+        "catno": "DRR-LP-63094",
+        "resource_url": "https://api.discogs.com/labels/227791",
+        "id": 227791,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "45 RPM", "Album", "Club Edition", "Reissue", "Remastered"],
+        "text": "Brown & Mint Splatter",
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Snoop Dogg",
+        "anv": "Snoop Doggy Dogg",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/132084",
+        "id": 132084
+      }],
+      "thumb": "",
+      "title": "Doggystyle",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11979828",
+      "year": 2018,
+      "id": 11979828
+    },
+    "id": 11979828,
+    "rating": 0
+  }, {
+    "instance_id": 263134010,
+    "date_added": "2017-11-25T08:25:09-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Def Jam Recordings",
+        "entity_type": "1",
+        "catno": "B0024720-01",
+        "resource_url": "https://api.discogs.com/labels/4241",
+        "id": 4241,
+        "entity_type_name": "Label"
+      }, {
+        "name": "UMe",
+        "entity_type": "1",
+        "catno": "B0024720-01",
+        "resource_url": "https://api.discogs.com/labels/68029",
+        "id": 68029,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "text": "30th Anniversary Edition, 180 Gram",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Beastie Boys",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/10783",
+        "id": 10783
+      }],
+      "thumb": "",
+      "title": "Licensed To Ill",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9173990",
+      "year": 2016,
+      "id": 9173990
+    },
+    "id": 9173990,
+    "rating": 0
+  }, {
+    "instance_id": 263129525,
+    "date_added": "2017-11-25T08:04:17-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "DFA",
+        "entity_type": "1",
+        "catno": "88985456111",
+        "resource_url": "https://api.discogs.com/labels/6486",
+        "id": 6486,
+        "entity_type_name": "Label"
+      }, {
+        "name": "Columbia",
+        "entity_type": "1",
+        "catno": "88985456111",
+        "resource_url": "https://api.discogs.com/labels/1866",
+        "id": 1866,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "name": "Vinyl",
+        "qty": "2"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "LCD Soundsystem",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/38948",
+        "id": 38948
+      }],
+      "thumb": "",
+      "title": "American Dream",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10776167",
+      "year": 2017,
+      "id": 10776167
+    },
+    "id": 10776167,
+    "rating": 0
+  }, {
+    "instance_id": 263126506,
+    "date_added": "2017-11-25T07:49:03-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "DGC",
+        "entity_type": "1",
+        "catno": "B0025124-01",
+        "resource_url": "https://api.discogs.com/labels/86487",
+        "id": 86487,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Reissue"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Beck",
+        "anv": "Beck!",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/3928",
+        "id": 3928
+      }],
+      "thumb": "",
+      "title": "Odelay",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9436179",
+      "year": 2016,
+      "id": 9436179
+    },
+    "id": 9436179,
+    "rating": 0
+  }, {
+    "instance_id": 293357175,
+    "date_added": "2018-04-15T15:59:17-07:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Domino",
+        "entity_type": "1",
+        "catno": "WIGLP162VMP",
+        "resource_url": "https://api.discogs.com/labels/26465",
+        "id": 26465,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album", "Club Edition", "Reissue"],
+        "text": "Gray Translucent w/ Black Smoke, 180 g",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Arctic Monkeys",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/391170",
+        "id": 391170
+      }],
+      "thumb": "",
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11826116",
+      "year": 2018,
+      "id": 11826116
+    },
+    "id": 11826116,
+    "rating": 0
+  }, {
+    "instance_id": 263147761,
+    "date_added": "2017-11-25T09:26:51-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Elektra",
+        "entity_type": "1",
+        "catno": "96 04641",
+        "resource_url": "https://api.discogs.com/labels/651",
+        "id": 651,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Compilation"],
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Cars",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/143225",
+        "id": 143225
+      }],
+      "thumb": "",
+      "title": "Greatest Hits",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1117266",
+      "year": 1985,
+      "id": 1117266
+    },
+    "id": 1117266,
+    "rating": 0
+  }, {
+    "instance_id": 263154454,
+    "date_added": "2017-11-25T09:56:21-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Elektra",
+        "entity_type": "1",
+        "catno": "EKS-75017",
+        "resource_url": "https://api.discogs.com/labels/651",
+        "id": 651,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "The Doors",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/56798",
+        "id": 56798
+      }],
+      "thumb": "",
+      "title": "Other Voices",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/870281",
+      "year": 1971,
+      "id": 870281
+    },
+    "id": 870281,
+    "rating": 0
+  }, {
+    "instance_id": 263148065,
+    "date_added": "2017-11-25T09:28:08-08:00",
+    "basic_information": {
+      "labels": [{
+        "name": "Elektra",
+        "entity_type": "1",
+        "catno": "K6E-101",
+        "resource_url": "https://api.discogs.com/labels/651",
+        "id": 651,
+        "entity_type_name": "Label"
+      }],
+      "formats": [{
+        "descriptions": ["LP", "Album"],
+        "text": "Gatefold",
+        "name": "Vinyl",
+        "qty": "1"
+      }],
+      "artists": [{
+        "join": "",
+        "name": "Queen",
+        "anv": "",
+        "tracks": "",
+        "role": "",
+        "resource_url": "https://api.discogs.com/artists/81013",
+        "id": 81013
+      }],
+      "thumb": "",
+      "title": "A Day At The Races",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/635915",
+      "year": 1976,
+      "id": 635915
+    },
+    "id": 635915,
+    "rating": 0
+  }]
+}
